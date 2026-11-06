@@ -1,0 +1,6 @@
+{
+  "name": "Experience UI",
+  "description": "Material 3 Expressive Android Ecosystem: Independent native applications with shared design system, dynamic theming, and Android 9 compatibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
